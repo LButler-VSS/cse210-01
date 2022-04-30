@@ -20,6 +20,7 @@ namespace Ponder_1
             char choice, activeLetter;
 
             // Declares the array used to print the board to console
+            // On review this could have just been a list. No reason to jump through array hoops.
             char[,] TTTBoard = { { '1', '2', '3', }, { '4', '5', '6', }, { '7', '8', '9' } };
 
             // This function prints the contents of the TTTBoard array to the console
