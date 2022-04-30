@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// CSE 210 01 Ponder - Logan Butler
+
 namespace Ponder_1
 {
     class Program
