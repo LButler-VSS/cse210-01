@@ -14,3 +14,19 @@ C:\Users\Logan\Documents\CSE 210\Projects\Ponder 1\obj\Debug\net5.0\refint\Ponde
 C:\Users\Logan\Documents\CSE 210\Projects\Ponder 1\obj\Debug\net5.0\Ponder 1.pdb
 C:\Users\Logan\Documents\CSE 210\Projects\Ponder 1\obj\Debug\net5.0\Ponder 1.genruntimeconfig.cache
 C:\Users\Logan\Documents\CSE 210\Projects\Ponder 1\obj\Debug\net5.0\ref\Ponder 1.dll
+F:\School\CSE 210\Projects\Prove4\bin\Debug\net5.0\Ponder 1.exe
+F:\School\CSE 210\Projects\Prove4\bin\Debug\net5.0\Ponder 1.deps.json
+F:\School\CSE 210\Projects\Prove4\bin\Debug\net5.0\Ponder 1.runtimeconfig.json
+F:\School\CSE 210\Projects\Prove4\bin\Debug\net5.0\Ponder 1.runtimeconfig.dev.json
+F:\School\CSE 210\Projects\Prove4\bin\Debug\net5.0\Ponder 1.dll
+F:\School\CSE 210\Projects\Prove4\bin\Debug\net5.0\ref\Ponder 1.dll
+F:\School\CSE 210\Projects\Prove4\bin\Debug\net5.0\Ponder 1.pdb
+F:\School\CSE 210\Projects\Prove4\obj\Debug\net5.0\Ponder 1.csproj.AssemblyReference.cache
+F:\School\CSE 210\Projects\Prove4\obj\Debug\net5.0\Ponder 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\School\CSE 210\Projects\Prove4\obj\Debug\net5.0\Ponder 1.AssemblyInfoInputs.cache
+F:\School\CSE 210\Projects\Prove4\obj\Debug\net5.0\Ponder 1.AssemblyInfo.cs
+F:\School\CSE 210\Projects\Prove4\obj\Debug\net5.0\Ponder 1.csproj.CoreCompileInputs.cache
+F:\School\CSE 210\Projects\Prove4\obj\Debug\net5.0\Ponder 1.dll
+F:\School\CSE 210\Projects\Prove4\obj\Debug\net5.0\ref\Ponder 1.dll
+F:\School\CSE 210\Projects\Prove4\obj\Debug\net5.0\Ponder 1.pdb
+F:\School\CSE 210\Projects\Prove4\obj\Debug\net5.0\Ponder 1.genruntimeconfig.cache

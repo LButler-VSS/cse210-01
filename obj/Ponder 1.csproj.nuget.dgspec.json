@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Logan\\Documents\\CSE 210\\Projects\\Ponder 1\\Ponder 1.csproj": {}
+    "F:\\School\\CSE 210\\Projects\\Prove4\\Ponder 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Logan\\Documents\\CSE 210\\Projects\\Ponder 1\\Ponder 1.csproj": {
+    "F:\\School\\CSE 210\\Projects\\Prove4\\Ponder 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Logan\\Documents\\CSE 210\\Projects\\Ponder 1\\Ponder 1.csproj",
+        "projectUniqueName": "F:\\School\\CSE 210\\Projects\\Prove4\\Ponder 1.csproj",
         "projectName": "Ponder 1",
-        "projectPath": "C:\\Users\\Logan\\Documents\\CSE 210\\Projects\\Ponder 1\\Ponder 1.csproj",
-        "packagesPath": "C:\\Users\\Logan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Logan\\Documents\\CSE 210\\Projects\\Ponder 1\\obj\\",
+        "projectPath": "F:\\School\\CSE 210\\Projects\\Prove4\\Ponder 1.csproj",
+        "packagesPath": "C:\\Users\\vipe1.DESKTOP-QDPLFGI\\.nuget\\packages\\",
+        "outputPath": "F:\\School\\CSE 210\\Projects\\Prove4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Logan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "D:\\Appdata\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -47,30 +47,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.16, 5.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

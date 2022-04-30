@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xtQ4OBPGnaO1TqdQmEKyxxQiYMeKvyqXYfpz52zhHcyP2CiPjVHG07WwjqkIY4SwH1Kh3OMDRDGry2HAp8iupw==",
+  "dgSpecHash": "ay5gFOwGJNyEE7yAhIrh09oz1aQz0I8RT1JfoZwY7hGn3dHCVm6pBIJDkas9yfJkiBTHxRJ2wdjMwpvLVmZFXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Logan\\Documents\\CSE 210\\Projects\\Ponder 1\\Ponder 1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Logan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Logan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Logan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Logan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\School\\CSE 210\\Projects\\Prove4\\Ponder 1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
